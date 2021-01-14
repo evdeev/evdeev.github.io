@@ -1,2 +1,4 @@
 # evdeev.github.io
-Хостинг сайта evdeev.ru
+Хостинг [сайта][1]
+
+[1]: https://evdeev.ru/        "evdeev.ru"
